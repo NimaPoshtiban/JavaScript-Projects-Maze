@@ -5,7 +5,7 @@
 it's a really simple maze game
 
 ### How to use?
-Head to this url => https://nimaposhtiban.github.io/JavaScript-Projects-Maze/
+Head to this url => https://nimaposhtiban.github.io/JavaScript-Projects-Maze/ or
 Just index.html file
 
 #### technologies:
